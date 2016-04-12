@@ -1,0 +1,20 @@
+{
+    "name": "franquis/php-stellar-sdk",
+    "description": "A PHP client for Stellar",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+		    "psr-0": {
+			       "Stellar" : "src/"
+        }
+	  },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "franquis",
+            "email": "franquis@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

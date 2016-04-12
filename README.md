@@ -1,2 +1,8 @@
 # php-stellar-sdk
-Main Stellar client library for the PHP language
+Horizon client in PHP
+
+## This is a work in progress
+
+
+## License
+MIT
