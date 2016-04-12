@@ -1,6 +1,6 @@
 <?php
 
-namespace Stellar;
+namespace Stellar\Horizon;
 
 use GuzzleHttp\Client;
 
